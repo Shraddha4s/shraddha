@@ -59,3 +59,5 @@ Printf(“\np%d\t\t %d\t\t\t %d\t\t\t%d”,p[i],bt[i],wt[i],tat[i]);
 Avgtat=(float)total/num; 
 Printf(“\nAverage Waiting Time=%f”,avgwt,”ms”); 
 Printf(“\nAverage Turnaround Time=%f\n”,avgtat,”ms”); 
+
+}
